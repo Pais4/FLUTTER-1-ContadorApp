@@ -1,0 +1,13 @@
+-> Crear proyecto desde VSC
+    - Comand + shift + P 
+    - Flutter: New Proyect
+
+-> Widget 
+    - Es una clase que puede tener argumentos, posiciones y argumentos con nombre.
+    Todo en flutter son widgets (Como piezas de leggo)
+    - Hay dos tipos de widgets  
+        - StatelessWidget (Sin estado)
+            - Al stateless no le importa saber si una propiedad cambia, no podria hacerlo.
+        - StatefulWidget (Con estado)
+            - Permite saber el estado de si mismo, si alguna propiedad cambio, etc..
+            - Puede redibujarse a si mismo cuando sucede un cambio
